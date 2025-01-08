@@ -1,8 +1,8 @@
-<h1 align="center">🚀 GeeksforGeeks Daily Problems 🚀</h1>
+<h1 align="center">🚀 LeetCode Solutions 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Platform-GeeksforGeeks-green.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-green.svg" alt="Platform">
 </p>
 
 <p align="center">
